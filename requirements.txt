@@ -4,4 +4,4 @@ openai
 streamlit
 supabase
 pandas
-faiss
+faiss-cpu
