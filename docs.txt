@@ -1,0 +1,587 @@
+Pre-Built Content Templates
+Category: Content creation
+
+Learn how to kickstart your documentation with pre-built subject templates.
+
+
+You're all excited about documenting your processes, and you log in to start, but you're thinking to yourself, "it would be super nice not to have to start from scratch." Guess what? With Trainual templates, you don't have to! 🙌
+
+
+Templates are pre-built subjects on a variety of business-focused areas ranging from employee policies, company processes, technology, and a whole lot more.
+
+To view and add templates:
+
+
+Click the category you would like to add a template in from the left-hand navigation  (Company, Policies, or Processes.)
+Click "See all templates" to search through all available content.
+When you find the right template, click "Read More."
+Preview the chosen template to make sure it's what you need.
+Click the "+ Add" button to select the template and choose the location for the content and the subject owner. 
+Finalize this choice by hitting the "Add template" button. You can then start customizing the template right away, just like any other subject.
+
+
+🔥 Tip: To help modify the document to your company's needs, each template provides suggestions for what to include, as well as example content that you can edit to fit.
+
+
+
+
+Trainual Compose (write training content with AI)
+Category: Content creation
+
+
+Learn how Trainual Compose can write policies and processes for you using AI.
+
+
+Finally, your playbook can write itself! Spend more time growing your business and less time documenting processes, policies, and company information — all with the first of Trainual's new AI capabilities: Trainual Compose. 🙌
+
+
+👉 Before you start:
+
+
+Trainual Compose is available for all plans.
+Only content creators with a permission level of Author+ (Author, Contributor, Manager, Admin, and Billing Admin) will have access to this feature.
+
+
+To generate content with Trainual Compose:
+
+
+Open and name the step you'd like to create and make sure you are toggled to "Admin" mode. 🔥 Tip: Make sure you’ve named your topic and step so Trainual Compose can use them to write your content. (Don’t worry — that’s the only information the tool will pull from your account.)
+Click the "Compose" option on the text editor toolbar. 📝 Please note: If this is your first time using Trainual Compose, you will see an overview screen that outlines the feature and a note about agreeing to the Terms of Service before proceeding. For any questions or concerns, the support team is available at support@trainual.com.
+Write bullet points of information you’d like your step to include, and then click "Compose" to generate your fully-baked step. For example, you can include a few bullet points about your company's PTO guidelines for employees to reference before booking their next vacation.
+Review the suggested step content and decide if you'd like to use it.
+"Use this!" sends the information straight to the bottom of your current step for you to add additional formatting to, change the verbiage as you see fit, or move it to the preferred area of your step content.
+"Try again" generates a new step (with slightly different verbiage) using using the same bullet points you provided. Feel free to re-generate content as many times as you need until you get what you’re looking for.
+"Report an issue" lets Trainual know about any inappropriate or inaccurate content being displayed in the system. Just fill out the form to send in a report.
+
+
+🔥 Tip: Don’t forget to review, edit, and add to the generated content as needed before publishing it for your team.
+
+
+Import Documents
+Category: Content creation
+
+
+Learn how to convert Google Docs and Word documents into Trainual content.
+
+
+Do you have company knowledge stored in Google Docs or Microsoft Word? (Barf.) No need to copy + paste everything into Trainual — convert your files into organized, searchable Trainual subjects in just a few clicks with the import document feature.
+
+How to import a document:
+
+
+Navigate to the "Content" page from the left-hand menu.
+Click the dropdown on the “Create subject” button and select “Import document.” 🔥 Tip: Use the quick-add button ("+") on the top navigation menu to jump straight to the import document modal from any page in the app. 🤯
+Click the grey area to upload your Word document. If you have a Google Doc you’d like to import, just save your Google Doc to your computer in .doc or .docx.
+Select the specific "Content" page you’d like this subject to "live" in  — Company, Policies, or Processes.
+Press "Next" to begin your transcription. 📝 Please note: Your subject's loading progress will show on the screen as the content imports. The larger the document, the longer your load time will be.
+You will see an "Imported!" message when the subject has completed uploading.
+Review and edit your new subject as needed. 🎉
+
+
+FAQs:
+
+
+What types of files can I import? Currently, you can import Google Docs and Microsoft Word files. (Psst… More file options are coming soon! Stay tuned.)
+
+
+Is there a max file upload size? Yes. Your file should be 15MB or less with no more than 3K words.
+
+
+Is there a max character limit for titles? Yes. Your title should be less than 250 characters.
+
+
+Can my document have a Table of Contents? No. This will cause an upload failure. You can always add your TOC after you upload the document.
+
+
+What do I do if I get an error message when importing my file? There are limits to the type, size, and word count of the file you can upload. Convert your file to a .doc or .docx if it’s not in either of those formats and make sure it’s 15MB or less with no more than 3K words. If you’re still having trouble, contact Trainual support!
+
+Subject Structure (Subject, Topic, Steps)
+Category: Content creation
+
+
+Learn How Trainual Subjects are Structured With Topics and Steps.
+
+
+Content in Trainual is organized into subjects, topics, and steps. Here, we will go over the difference between subjects, topics, and steps and give you tips on how to structure your content using each organizational level.
+
+
+Subject
+
+
+A subject is a group of processes or procedures that apply to either the whole company (i.e. Employee Handbook) or a specific department or role (i.e. HR or HR Manager).
+
+
+For example:
+
+
+Reception Area Procedures
+HR Policies
+
+
+Topic
+
+
+A topic is a specific process or procedure that falls under a broader group of processes or procedures.
+
+
+For example:
+
+
+In the subject Reception Area Procedures:
+Greeting Customers
+Answering Phones
+In the subject HR Policies:
+PTO Policy
+Remote Work Policy
+
+
+Step
+
+
+A step is all of the individual actions that must take place to follow a specific process or procedure.
+
+
+For example:
+
+
+In the subject Reception Area Procedures > Topic Greeting Customers
+Complete Intake Form
+Add to Email List
+In the subject HR Policies > Topic PTO Policy
+Submit PTO Request
+Confirm with Manager
+
+Add a New Subject (Process, Policy)
+Category: Content creation
+
+
+Learn how to create a brand new subject in your Trainual account.
+
+
+A subject is an assembly of processes, policies, and procedures that'll be assigned to your designated groups. A great way to think of subjects in Trainual is as "folders" for categorizing and organizing the type of training you are providing to your employees.
+
+
+📝 Please note: Only content creators will have access to this feature. For more specifics around which pieces of content your teammates can see and update, review their current permissions and subject content access levels.
+
+
+To add a subject from the "Content" page:
+
+
+Navigate to the "Content" page from the left-hand menu.
+Click the "Create subject" button on the top right-hand corner of the page.
+Fill out the prompts in the "Create subject" pop-up window, then click "Create."
+Your new subject has now been added to the category page in "Draft" mode.
+
+
+🔥Tip: Quickstart your content creation by snagging a template. 🤯
+
+
+
+Add A New Topic
+Category: Content creation
+
+Learn how to add a topic to your subject.
+
+
+Now that you have created your subject, it's time to build out your content using topics. Topics are subtitles of training that contain the steps where your content actually is (ex. how-to instructions, pictures, videos, etc.).
+
+
+📝 Please note: Only content creators will have access to this feature. For more specifics around which pieces of content your teammates can see and update, review their current permissions and subject content access levels.
+
+To add a topic from a subject's page:
+
+
+Navigate to the "Content" page from the left-hand menu.
+Locate your subject from within the tab where it currently "lives" — Company, Policies, or Processes. 
+Click on the ">" symbol next to the subject title you are adding the topic under.
+Enter your topic name in the provided textbox and hit "Create topic." You'll see the topic appear in a drafted state under the subject.
+
+Create & Add Content to a Step
+Category: Content creation
+
+
+Learn how to start documenting the core company, process, and procedural information of your business playbook.
+
+
+Steps are where you'll record individual nuggets of information in a preferred sequence under a topic title that outlines specific company, process, or procedural information. Think of this action as writing the actual paragraphs in your training books, with topics being the chapter titles and subjects being the book titles.
+
+
+👉 Before you start:
+
+
+This feature option is available on all Trainual plans.
+Content creators will have access to this feature. For more specifics around which pieces of content your team can see and update, review their permission levels and subject content access levels.
+
+
+To create a brand new step:
+
+
+📝 Please note: You'll need to create a subject under either the Company, Policies, or Processes page first and then create a topic before you can follow the instructions below to create a step. 👀
+
+
+Navigate to the subject you'd like to house this information under by clicking on the page where your subject "lives" from the left-hand navigation bar (this will either be under the Company, Policies, or Processes page.)
+Select the preferred topic the step will be nestled under. 
+Click the "+ Add Step" button on the left to open a brand new step. 
+Fill out the "Step Title" and begin working on your documentation.
+
+
+To start getting your content to the next level:
+
+
+There are tons of ways to get your training looking both visually appealing and user-friendly. Check out the resources down below to make sure you feel like:
+
+
+🎉 Adding GIFs to Steps. Put some flare into your training by providing these fun breaks on lengthier content.
+🖼️ Inserting Media Using the Quick Embed Feature. Include multimedia directly into your Trainual from over 700 different providers.
+💭 Content Creation Strategy Guide. Make sure you're staying clear and organized as you create your Trainual content.
+🏗️ Establishing Content Standards Strategy Guide. Set content standards early to ensure consistency across all users and content.
+
+
+Group Share (assign content)
+Category: Employee training
+
+
+Learn to assign content and manage subject access for individual team members and groups.
+
+
+Use group share to control the way you distribute content to individuals and groups — like who’s required to complete and review content, who gets view-only access, or who gets editing capabilities — all in one spot. Getting everyone the business knowledge they need in just a couple of clicks. 🤲
+
+
+👉 Before you start:
+
+
+A team member will need a Manager or higher permission level to manage content access and share subjects.
+Groups cannot be created in the group share modal. Create groups before using group share.
+
+
+How to share your subject with your team:
+
+
+Navigate to the Company, Policies, or Processes page where your subject lives.
+Click on the subject.
+Press the "Share" button in the “People and groups" section.
+Click the dropdown arrow in the "Search people and groups" bar. Click on the group names and/or team member names you would like to add.
+To require an individual team member or group to complete the subject, switch their toggle to “Required.”
+Press "Save."
+
+
+📝 Please note:
+
+
+Required = This subject will be mandatory to be completed by your trainees, and completion tracking will be activated and available in your reports section.
+Not required = This subject content will be optional, aka — reference material. Your teammates can view this information at their leisure, and no completion tracking will be available or tied to their review of the course.
+
+
+How to manage subject content access:
+
+
+Navigate to the Company, Policies, or Processes page where your subject lives.
+Click on the subject name to open it.
+Press the "Share" button under “People and groups." 
+Press the far-right dropdown arrow to change the content access level for individuals or groups. 📝 Please note: The default view for General users is “View.” Admin+ team members cannot be downgraded to having lower than “Full” access.
+Press "Save."
+
+
+FAQs
+
+
+When you make changes to a Subject and click "share changes" will the update go to everyone with access to the subject, or only to the groups for whom the subject is required? This update will go to anyone assigned to the subject, whether it is required or not.
+
+
+If a team member is assigned to a subject via multiple groups, and one group requires completion, and the other does not, will the team member be required to complete the subject? Yes, if one group the team member is assigned to requires completion - the team member will be required to complete the subject.
+
+
+E-Signature
+Category: Employee training
+
+
+Learn how to require an e-signature for policies inside of Trainual.
+
+
+Looking to add an extra layer of acknowledgment and accountability to the information you are providing to your teammates? Turn on e-signatures at the topic level to ensure everything is being reviewed thoroughly!
+
+
+ 👉 Before you start:
+
+
+E-signatures are only available for select subscriptions. Reach out to support directly to see if your plan qualifies. 📧
+This account setting can only be turned ON or OFF through a web browser by those with Admin+ permission levels.
+✨ NEW: E-signatures can now be signed and completed by trainees through our mobile app on both iOS and Android.
+
+
+To manage the ability to require or not require e-signatures:
+
+
+Expand the Account options from the left-hand navigation menu.
+Choose Settings.
+Locate and toggle "Allow e-signatures" to the ON or OFF position.
+Optional: Add more permission levels to this section for any content creators who need the ability to include e-signature requirements on their topics. 
+Remember, Billing Admins will always be able to require e-signatures when this feature is turned ON.
+
+
+To set and require an e-signature on a topic:
+
+
+Navigate to a subject under the Policies tab.
+Find the topic you'd like to require an e-signature on.
+Click on the three dots to the right of your topic and click "Require e-signature."
+Confirm the changes were finalized by looking for the blue banner notification that states an "E-signature [is] required" at the top of your page and next to your topic title.
+
+
+🚨 Reminder: If you edit a topic's title or any content within a topic that requires an e-signature, it will make everyone re-sign the content. Be sure to catch any misspellings and last minute updates before turning on your e-signature requirement! (Don't worry – you'll get a warning before any edits go through so you don't accidentally reset any e-signature completions.)
+
+
+To remove an e-signature requirement from a topic:
+
+
+Navigate to the topic that currently requires an e-signature.
+Click on the three dots to the right of this topic and click "Remove e-signature."
+
+
+To see what this process looks like from a trainee's perspective:
+
+
+When an assignee reaches the end of a topic that requires an e-signature, the "Mark Completed" button will instead say "Sign and complete." In order for them to proceed, they will need to sign and agree to all of the information you've outlined previously before this content can be marked as finished in the system.
+
+
+A pop-up window will appear that includes the entire overview of the topic information for a final review. The system will then prompt them to "Start signing," and they will be required to provide a signature before they can proceed.
+
+
+Once they are completely done reviewing and signing the document, they just have to hit "Finish," and the system will record their full completion of the topic.
+
+
+🔥 Tip: Make sure everyone on your team has a “Reports to” person selected on their profiles so their direct manager can receive a copy of their signed document via email. If somebody doesn’t have a manager selected, the Billing Admin on file in the account will receive the copy instead.
+
+
+FAQs
+
+
+What happens if I edit a topic with an e-signature enabled? Some content editing actions are disabled by e-signature, this will prevent you from needing to have team members who have already signed the document needing to sign again. If you must make an update to this document, you will need to disable e-signature first.
+
+
+Why wouldn't I just use the completion percentages feature option to hold my team accountable? Completion percentages are a good way to know if your team has reviewed important policies assigned to them, but e-signatures are a better way to ensure you and your team are in agreement and have an understanding of expectations and set rules for your company.
+
+
+At what content level can I require an e-signature? E-signatures can only be required for topics in policies at this time.
+
+
+How do I know how many e-signatures I've already used this month? You can always see how many free e-signatures you have left, and any extra e-signatures your account will be charged for from the Billing & plans page.
+
+
+Add New Teammates
+Category: Employee training
+
+
+Learn how to invite new people to your Trainual account.
+
+
+Your people are the whole reason for using Trainual, right? Here, you’ll learn how to invite your team members to Trainual.
+
+
+📝 Please Note: Only Billing Admins, Admins, and Managers can invite new users.
+
+
+To add a new person:
+
+
+Click the Account tab from the left-hand navigation bar then click "Manage users."
+Click the "Add Teammate" button on the top right-hand corner.
+Fill out the required fields to add the person's full name, email address, job title, and permission level.
+Click the "Advanced user settings" dropdown to fill out the optional fields like assigning them to one or more groups and a manager they'll report to.
+Click "Add" on the bottom right-hand corner of the "Add teammate" section to invite your teammate.
+Your teammate will receive an email with a link they can click on to join the team.
+
+
+FAQs
+
+
+I have a Manager permission level and cannot see a team member I just added; what happened? Those with the Manager permission level can only view employees assigned to the same team as them. Double-check that this information was entered correctly.
+
+Bulk Invite Team
+Category: Employee training
+
+
+Upload a CSV to bulk add your whole team to your Trainual account.
+
+
+When you're scaling your team, it can be pretty tedious to add everyone one by one. With bulk adding, you can invite your whole team all at once with a CSV upload. 🔥
+
+
+📝 Please note: You can also bulk invite trainees through an integration if you have access to an HRIS! 👀
+
+
+To bulk add your team:
+
+
+Expand the "Account" tab from the left-hand navigation bar and then click "Manage users."
+Click on the drop-down arrow on the "Add teammate" button on the top right-hand corner of the page.
+Select "Bulk add."
+You'll see a pop-up, like the one pictured below, that guides you through best practices before doing your bulk inviting. ✅ Make sure to use the bulk upload guide for support along the way! 🤩
+Hit the "Get started" button when you're ready to proceed.
+Open the template guide and save it as your own file on your computer (we recommend doing this in the CSV format.)
+Edit all the pre-made columns for your team members and save those changes.
+📝 Please note the following information about this part of the process:
+You must keep the column titles/headers exactly the same as they are listed on the template. 
+The name, email, permission, and title cells must be filled in. The other sections are optional to complete and can be left blank. 
+Be sure that there is only one space between words in your upload. (For example: if you are adding Han Solo to your team, ensure there is only one space between "Han" and "Solo" — a quick way to check this formatting is by pressing [Command + f] on a Mac or [Control + f] on a PC to search for double spaces throughout your document.)
+If you'd like to add a person to multiple group types, use a [comma + space] in between those listed group types (as shown by the example entries on the CSV template.) 👉 Be certain you have created and added all the groups desired to your Trainual account prior to listing them in your CSV. 
+The "Import teammates" pop-up window will list how many invites you have remaining for your plan. Remember, you can only invite the number of team members you have room for still on your account. If you need to, you can upgrade your plan to add more seats or archive outdated profiles to make room for new trainees.
+When you're done editing your CSV, drag and drop it into the "Import teammates" pop-up window to upload your document from your computer.
+Click "Import" to proceed.
+If the import was successful, you will be redirected to the page below. You can then choose to "Add and invite" those employees right now or send out onboarding emails at a later time by using the "Just add" button — either option will allow you to finalize this process. 🎉
+If the import was unsuccessful, you will get the error message seen below and will need to refer back to the previous steps outlined in this help document to identify the discrepancies.
+
+
+Manage Subject Content Access
+Category: Employee training
+
+
+Learn how to manage a teammate's ability to view, edit, and fully oversee subjects.
+
+
+Content access levels allow teammates to either view and complete training, edit training through an approval process, or fully manage content to publish updates on individual subjects.
+
+
+👉 Before you start: 
+
+
+All plans have access to this feature option.
+Only Billing Admins, Admins, and Managers have permission to assign a content access permission level for individual subjects and subject owners. 
+📝 Please note: For Managers, this action is available only for the teammates that have been assigned to them.
+Review user permission level options to compare and contrast to content access to choose the best option(s) for your content creation team.
+
+
+To review before choosing a content access level:
+
+
+You'll want to make sure that the level of access you grant matches the expectations you have of the person you are trusting with this responsibility. 👨‍🎨
+
+
+View (access level)
+
+
+All of your General users are given this access by default on the subjects they are assigned to. When teammates are set with a "View" content access level, they will have the ability to…
+
+
+See all the listed content from a card view perspective. 
+Favorite frequented subjects to save and access from the "My desk" homepage.
+Filter content using the following drop-down menu options: Status, Type, Content Access, and Groups.
+
+
+Edit (access level)
+
+
+All of your Contributors and Authors are given this access by default on the subjects they are assigned to. An "Edit" level of permission grants users the ability to alter content they are assigned to but does not allow them to publish those changes. They will also have all the permissions of a "View" content access plus the ability to…
+
+
+Delete topics and tests.
+Click on a three-dot menu option on subjects, topics, and steps from the "Content" overview page to quickly take action.
+📝 Please note: The "Edit" and "Copy Link" options are not available at the subject level for this permission level.
+
+
+Fully Manage or Own (access level)
+
+
+Manager+ teammates are set to a content access level of "Full" by default (with Managers only having this level on the content they are directly assigned to). They can be upgraded to "Owner" of a subject but cannot be downgraded to "View" or "Edit."
+
+
+When teammates are set with an "Owner" or "Full" level of content access for a subject, they will have unrestricted access to edit, publish, and add/remove teammates from a subject, plus the ability to…
+
+
+Archive subjects.
+Move subjects to different locations (in conjunction with a Manager+ account permission level.)
+See the average completion for a subject and view the corresponding subject report. 
+Send "Share changes" email notifications to assigned teammates. 
+View and make changes on a subject for all assigned teammates, regardless of their account permission level.
+
+
+To assign a content access permission level:
+
+
+Navigate to the "Content" page from the left-hand menu.
+Open your subject by locating it from within the tab where it currently "lives" — Company, Policies, or Processes. 
+Locate and hit the "Share" button. 
+Use the drop-down menu next to the desired person or group and choose the access level you want to give them. 
+Select the "Save" button to finalize.
+
+
+Organizing & Viewing Subjects on the Content Page
+Category: Trainual basics
+
+
+Learn all about the “Content” page and how to use it as a central hub for policies, processes, and company knowledge.
+
+
+The Content page is a repository of all the existing subjects in your account. Use it as a one-stop shop to content management — plus, view content by group, set the order of employee training, and more!
+
+
+🚨 Important notes: 
+
+
+Content will look different for Admins vs. General users.
+The Content page shows users all the subjects they have “View” or higher access to. Those with “Edit” and “Full” permission of subjects can use the Content page for subject management.
+By default, all published subjects will be visible in the Content section.
+
+To publish the content for your team to view:
+
+
+Publishing Content makes it so that your whole team can see all published subjects in the account when they head to the Content page and even request “View” access to anything they’re not assigned but want to learn about. 👀
+
+
+Navigate to the "Account" tab and select "Settings."
+Enable the "Publish content library" toggle.
+Your changes will automatically save! 🎉
+
+
+How team members use it:
+
+
+When a team member logs in to Trainual, they’ll land on the My desk page. Here, they’ll see only the subjects that have been assigned to them. However, if they go to the Content page, they will see all the subjects in your account that you have made available.
+
+
+If a team member is not currently assigned to a subject on the Content page, they can click the "Request Access" button.
+
+
+This will send a notification to all Admins. Any Admin can click the “Requests” button inside the Content page to view these requests. Admins can grant or deny access.
+
+
+When access is approved, the subject will be assigned to the user, and they will see it on their My desk page.
+
+
+What if you don’t want employees to request access to a certain subject?
+
+
+No problem! Just turn off the “Add to the library” checkbox in the advanced subject settings for the subject you don’t want to show on the Content page.
+
+
+Navigate to the subject you want to remove from the library.
+Press the three dots to the right of the "Publish/Unpublish" button.
+Press "Edit Subject."
+Open the "Advanced subject settings" dropdown menu.
+Uncheck the "Add to the library" checkbox.
+Press "Save."
+
+
+To set training order:
+
+
+Navigate to the Content page on the left menu.
+Press the "Set training order" button.
+Using the dropdown menus to the left of the subject name, select the numerical order in which you want the subject to be assigned. 📝 Please note: You can drag and drop the subjects as well to set the training order.
+Your changes will automatically save! 🎉
+
+
+FAQs
+
+
+What will General users see on the Content page? General users will able to see all subjects they have “View” or higher access to in the group share modal, as well as any subjects that they are allowed to request access to.
+
+
+Will General users see the “Company,” “Policies,” and “Processes” tabs at the top of the Content page? Yep! Just make sure you’re sharing “Company” and “Policies” pages with your entire team in account settings.
+
+
+
+
+
+
+

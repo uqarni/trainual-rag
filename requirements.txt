@@ -1,0 +1,7 @@
+langchain
+tiktoken
+openai
+streamlit
+supabase
+pandas
+faiss
