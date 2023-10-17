@@ -9,10 +9,17 @@ import pandas as pd
 from langchain.document_loaders import TextLoader
 from langchain.text_splitter import CharacterTextSplitter
 
-def find_txt_examples(query, k=8):
-    loader = TextLoader("docs.txt")
+from supabase_client import get_prompt
+
+articles = get_prompt('tracyRAG_articles')
+
+def find_txt_examples(query, chunk_size, chunk_overlap, k):
+    with open('kb.txt', 'w') as f:
+        f.write(articles)
+
+    loader = TextLoader('kb.txt')
     documents = loader.load()
-    text_splitter = CharacterTextSplitter(chunk_size=500, chunk_overlap=100)
+    text_splitter = CharacterTextSplitter(chunk_size=chunk_size, chunk_overlap=chunk_overlap)
     docs = text_splitter.split_documents(documents)
     
     embeddings = OpenAIEmbeddings()
@@ -21,17 +28,17 @@ def find_txt_examples(query, k=8):
     docs = db.similarity_search(query, k=k)
 
     examples = ""
+
     for doc in docs:
-       examples += '\n\n' + doc.page_content
+       examples += '\n\n' + '---------------------' + '\n\n' + doc.page_content
     return examples
 
 
-def responder(examples, query):
+def responder(bot_prompt, examples, query):
     messages = []
     prompt = {
         'role': 'system',
-        'content': f'You work for Trainual, which sells a SaaS product designed to help businesses onboard their employees faster. Your job is to answer the question based on the following documentation excerpts:\n\n{examples}'
-    }
+        'content': bot_prompt + examples}
     user_input = {'role': 'user', 'content': query}
 
     messages.append(prompt)
